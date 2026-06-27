@@ -52,5 +52,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
