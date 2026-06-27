@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
