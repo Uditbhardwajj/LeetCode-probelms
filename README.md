@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
