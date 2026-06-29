@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
