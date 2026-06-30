@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0258-add-digits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -69,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
