@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
+| [2469-convert-the-temperature](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2469-convert-the-temperature) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
