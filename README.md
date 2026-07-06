@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 ## Number Theory
 |  |
