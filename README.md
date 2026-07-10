@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0342-power-of-four) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
