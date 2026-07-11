@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
