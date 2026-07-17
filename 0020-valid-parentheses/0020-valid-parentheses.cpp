@@ -7,7 +7,7 @@ public:
 
             if (s[i] == '(' || s[i] == '{' || s[i] == '[') {
                 st.push(s[i]);
-            }
+            }//--> saare opening bracket push krne ke liye
             else {
 
                 if (st.empty())
@@ -18,7 +18,7 @@ public:
 
                 if ((s[i] == ')' && ch == '(') ||
                     (s[i] == '}' && ch == '{') ||
-                    (s[i] == ']' && ch == '[')) {
+                    (s[i] == ']' && ch == '[')) {// for comb chechk
                     continue;
                 }
                 else {
