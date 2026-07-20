@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0142-linked-list-cycle-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
