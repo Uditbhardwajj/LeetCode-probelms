@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
