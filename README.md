@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
+| [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
+| [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
