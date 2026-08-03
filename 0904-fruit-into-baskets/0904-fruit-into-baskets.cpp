@@ -14,7 +14,7 @@ public:
             mp[fruits[r]]++;
 
             
-            while (mp.size() > 2) {
+            if (mp.size() > 2) {
 
                 mp[fruits[l]]--;
 
