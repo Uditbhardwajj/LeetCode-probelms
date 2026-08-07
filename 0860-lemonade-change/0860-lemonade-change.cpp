@@ -13,7 +13,7 @@ public:
 
             else if (bills[i] == 10) {
 
-                if (count5 != 0) {
+                if (count5 > 0) {
                     count5--;
                     count10++;
                 }
