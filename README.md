@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0135-candy) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -208,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
