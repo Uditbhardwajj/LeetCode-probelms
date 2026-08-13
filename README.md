@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0135-candy) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
