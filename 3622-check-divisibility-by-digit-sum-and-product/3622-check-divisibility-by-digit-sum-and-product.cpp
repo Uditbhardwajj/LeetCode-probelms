@@ -6,7 +6,7 @@ public:
         int dig = 0;
         int temp = n;
 
-        while (temp > 0) {
+        while (temp) {
             dig = temp % 10;
           
             s += dig;
