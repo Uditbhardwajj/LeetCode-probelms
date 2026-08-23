@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0231-power-of-two) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
