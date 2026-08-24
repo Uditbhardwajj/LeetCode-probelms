@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0135-candy) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
