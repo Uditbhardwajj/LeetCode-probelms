@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
+| [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
 | [2413-smallest-even-multiple](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2413-smallest-even-multiple) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0904-fruit-into-baskets) |
+| [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1004-max-consecutive-ones-iii) |
