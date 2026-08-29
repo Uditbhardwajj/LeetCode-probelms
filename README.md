@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0561-array-partition) |
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
