@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3895-count-digit-appearances) |
 ## Sorting
 |  |
