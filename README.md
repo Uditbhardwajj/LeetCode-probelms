@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0561-array-partition) |
+| [0905-sort-array-by-parity](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
