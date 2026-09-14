@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
+| [0836-rectangle-overlap](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0014-longest-common-prefix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
