@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0135-candy) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
