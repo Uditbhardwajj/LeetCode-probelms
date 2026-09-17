@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0148-sort-list) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0135-candy) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -318,4 +321,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0796-rotate-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
