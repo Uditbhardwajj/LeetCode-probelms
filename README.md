@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0904-fruit-into-baskets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Number Theory
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0557-reverse-words-in-a-string-iii) |
