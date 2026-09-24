@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
