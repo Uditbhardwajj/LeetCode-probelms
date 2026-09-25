@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
 | [2413-smallest-even-multiple](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3513-number-of-unique-xor-triplets-i) |
