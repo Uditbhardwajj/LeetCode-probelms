@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
 | [3110-score-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
 |  |
 | ------- |
