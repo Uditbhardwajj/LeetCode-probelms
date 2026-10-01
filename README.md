@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2553-separate-the-digits-in-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3925-concatenate-array-with-reverse) |
