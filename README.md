@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2553-separate-the-digits-in-an-array) |
+| [3248-snake-in-matrix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2553-separate-the-digits-in-an-array) |
+| [3248-snake-in-matrix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3925-concatenate-array-with-reverse) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3110-score-of-a-string) |
+| [3248-snake-in-matrix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting
