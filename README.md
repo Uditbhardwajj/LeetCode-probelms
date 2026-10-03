@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
