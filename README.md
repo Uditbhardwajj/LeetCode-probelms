@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3945-digit-frequency-score) |
 ## Binary Search
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3925-concatenate-array-with-reverse) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3731-find-missing-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
