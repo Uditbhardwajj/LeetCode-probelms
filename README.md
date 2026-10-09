@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0989-add-to-array-form-of-integer) |
