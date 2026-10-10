@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0525-contiguous-array) |
+| [0771-jewels-and-stones](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1207-unique-number-of-occurrences) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1021-remove-outermost-parentheses) |
