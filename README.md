@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3248-snake-in-matrix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
