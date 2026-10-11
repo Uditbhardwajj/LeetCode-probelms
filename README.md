@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0989-add-to-array-form-of-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
+| [0812-largest-triangle-area](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0905-sort-array-by-parity) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0836-rectangle-overlap) |
 ## String Matching
 |  |
@@ -466,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2778-sum-of-squares-of-special-elements) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
