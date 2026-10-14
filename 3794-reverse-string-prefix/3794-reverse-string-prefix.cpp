@@ -2,19 +2,15 @@
 class Solution {
 public:
     string reversePrefix(string s, int k) {
-        string ans = "";
-        int temp = k;
+        int left = 0;
+        int right = k - 1;
 
-        while (temp > 0) {
-            ans += s[temp - 1];
-            temp--;
+        while (left < right) {
+            swap(s[left], s[right]);
+            left++;
+            right--;
         }
 
-        while (k < s.size()) {
-            ans += s[k];
-            k++;
-        }
-
-        return ans;
+        return s;
     }
 };
