@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
