@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
+| [2418-sort-the-people](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3668-restore-finishing-order) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2104-sum-of-subarray-ranges](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2418-sort-the-people](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2418-sort-the-people](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2409-count-days-spent-together](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2409-count-days-spent-together) |
+| [2418-sort-the-people](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3110-score-of-a-string) |
 | [3248-snake-in-matrix](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3498-reverse-degree-of-a-string) |
