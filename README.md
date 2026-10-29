@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1021-remove-outermost-parentheses) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0324-wiggle-sort-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
