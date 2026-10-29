@@ -13,8 +13,8 @@ public:
                 high--;
             }
             else {
-                low--;   // '*' acts as ')'
-                high++;  // '*' acts as '('
+                low--;   
+                high++;  
             }
 
             if (high < 0) {
