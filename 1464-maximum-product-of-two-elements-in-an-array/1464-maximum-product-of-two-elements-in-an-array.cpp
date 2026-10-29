@@ -1,9 +1,19 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int n=nums.size();
+        int first = 0;
+        int sec = 0;
 
-        return ((nums[n-1]-1)*(nums[n-2]-1));
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] >= first) {
+                sec = first;
+                first = nums[i];
+            } 
+            else if (nums[i] > sec) {
+                sec = nums[i];
+            }
+        }
+
+        return (first - 1) * (sec - 1);
     }
 };
