@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1572-matrix-diagonal-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2418-sort-the-people](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2418-sort-the-people) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bracket Sequences
 |  |
 | ------- |
