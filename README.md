@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/Uditbhardwajj/LeetCode-probelms/tree/master/3110-score-of-a-string) |
